@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basket</string>
+    <string name="lclGanador">El ganador es el equipo local</string>
+    <string name="vstGanador">El ganador es el equipo visitante</string>
+    <string name="empate">Ha sido un empate</string>
+    <string name="visitante">Visitante</string>
+    <string name="local">Local</string>
+    <string name="local_visitante">Local - Visitante</string>
+</resources>

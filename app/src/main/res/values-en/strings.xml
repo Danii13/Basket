@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basket</string>
+    <string name="lclGanador">Local team had win</string>
+    <string name="vstGanador">Visittor team had win</string>
+    <string name="empate">Same puntuaction</string>
+    <string name="visitante">Visittor</string>
+    <string name="local">Local</string>
+    <string name="local_visitante">Local - Visittor</string>
+</resources>
